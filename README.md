@@ -1,8 +1,5 @@
 
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-04-14 15:01:41
-
-## 节点导入方法  
-CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-04-15 20:43:53
 
 ## 性价比机场推荐：[福云](https://fuuu.cloud)
 
@@ -18,11 +15,11 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 v2ray订阅链接：
 
-https://clashfreenode.com/feed/v2ray-20250414.txt 
+https://clashfreenode.com/feed/v2ray-20250415.txt 
 
 clash订阅链接：
 
-https://clashfreenode.com/feed/clash-20250414.yaml
+https://clashfreenode.com/feed/clash-20250415.yaml
 
 ## 温馨提示
 
