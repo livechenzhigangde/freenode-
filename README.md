@@ -1,5 +1,5 @@
 
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-04-22 05:02:02
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-04-22 05:12:02
 
 2025年04月22日
            本次更新共22个可用节点，最高速度11M/S。
