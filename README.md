@@ -1,8 +1,8 @@
 
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-05-16 23:52:02
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-05-18 00:02:02
 
-2025年05月16日
-           本次更新共29个可用节点，最高速度9M/S。
+2025年05月18日
+           本次更新共33个可用节点，最高速度8M/S。
            覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域。
            复制下方的v2ray/Clash订阅链接，在客户端添加即可正常使用。
         
@@ -29,8 +29,8 @@
 
 v2ray订阅链接：
 
-https://clashfreenode.com/feed/v2ray-20250516.txt 
+https://clashfreenode.com/feed/v2ray-20250518.txt 
 
 clash订阅链接：
 
-https://clashfreenode.com/feed/clash-20250516.yaml
+https://clashfreenode.com/feed/clash-20250518.yaml
