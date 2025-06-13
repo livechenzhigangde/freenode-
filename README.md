@@ -1,9 +1,9 @@
 
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-06-13 10:42:02
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-06-13 10:52:03
 
 2025年06月13日
-           本次更新共23个可用节点，最高速度10M/S。
-           覆盖美国、新加坡、日本、俄罗斯、越南等多个区域。
+           本次更新共30个可用节点，最高速度21M/S。
+           覆盖美国、日本、新加坡、台湾等多个区域。
            复制下方的v2ray/Clash订阅链接，在客户端添加即可正常使用。
         
 
